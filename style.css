@@ -1,0 +1,16 @@
+div.jumbotron {
+  text-align: center;
+  border-radius: 0px;
+  background: url("back.jpg") center/cover fixed no-repeat;
+  color: white; }
+
+.jumbotron h1, .jumbotron p, .jumbotron hr, .jumbotron a {
+  margin: 30px; }
+
+.jumbotron hr {
+  background-color: white; }
+
+.navbar .navbar-collapse {
+  text-align: center; }
+
+/*# sourceMappingURL=style.css.map */
