@@ -25,7 +25,7 @@ a.nav-link {
 
 section {
   margin: 0;
-  padding: 10px 0;
+  padding: 30px 0;
   border-bottom: 1px solid #7ec6d9; }
 
 iframe {
@@ -41,5 +41,8 @@ footer {
   height: 20vh;
   text-align: center;
   padding: 10px; }
+
+.card {
+  margin: 10px; }
 
 /*# sourceMappingURL=style.css.map */
