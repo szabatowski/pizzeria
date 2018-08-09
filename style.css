@@ -36,4 +36,10 @@ iframe {
 h2 {
   margin-bottom: 10px; }
 
+footer {
+  background-color: #7ec6d9;
+  height: 20vh;
+  text-align: center;
+  padding: 10px; }
+
 /*# sourceMappingURL=style.css.map */
