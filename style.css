@@ -10,7 +10,18 @@ div.jumbotron {
 .jumbotron hr {
   background-color: white; }
 
-.navbar .navbar-collapse {
+.contains {
+  font-size: 0.7em;
+  font-style: italic; }
+
+.btn-outline-warning, .btn-outline-info {
+  margin: 1px 5px;
+  width: 100px; }
+
+.navbar {
   text-align: center; }
+
+a.nav-link {
+  color: #FCF1E5; }
 
 /*# sourceMappingURL=style.css.map */
